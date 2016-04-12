@@ -1,2 +1,2 @@
 # Practice-Website
-Created my own magazine website.
+Created my own magazine website using HTML, CSS, Javascript, & jQuery.
